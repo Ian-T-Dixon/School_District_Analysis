@@ -24,7 +24,8 @@ As seen in the tables below after changing the Thomas 9th grade scores to NaN, t
 ![School Summary](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/per_school_summary_old.PNG)
 
 **School Summary After changing Thomas High School 9th Grade Scores to NaN:**
-![School Summary](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/per_school_summary_new.PNG)
+
+![School Summary](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/per_school_summary_thomas_new.png)
 
 **School Summary After Removing Thomas High School 9th Grade Scores:**
 ![Less 9th Grade Thoams Scores](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/per_school_summary_less9_new.PNG)
