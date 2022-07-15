@@ -40,4 +40,8 @@ As seen in the tables below after changing the Thomas 9th grade scores to NaN, t
 
 **Scores by School Type Prior to changing Thoams High School 9th Grade Scorse**
 
+<<<<<<< HEAD
 **Scores by School Type After to changing Thoams High School 9th Grade Sco
+=======
+**Scores by School Type After to changing Thoams High School 9th Grade Scorse**
+>>>>>>> 73fd509ab1a5ca05f68a935aac84a422960a243c
