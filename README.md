@@ -18,7 +18,7 @@ As seen in the tables below, after removing the scorse for Thomas High School fr
 ![District Summary](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/district_summary_new.PNG)
 
 ### School Results
-As seen in the tables below after changing the Thomas 9th grade scores to NaN, the overall pass % for the school dropped significantly. However, by removing the 9th graders scores from the dataset, the average scores revert back to a level more similiar to the original data. Additionally, we can see that by changing the 9th graders scores to Nan, it drops Thomas High School into the bottom 5 schools in the district.
+As seen in the tables below after changing the Thomas 9th grade scores to NaN, the overall pass % for the school dropped significantly. However, by removing the 9th graders scores from the dataset, the average scores revert back to a level more similiar (although slightly lower) to the original data. Additionally, we can see that by changing the 9th graders scores to Nan, it drops Thomas High School into the bottom 5 schools in the district.
 
 **School Summary Prior to changing Thomas High School 9th Grade scores:**
 ![School Summary](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/per_school_summary_old.PNG)
