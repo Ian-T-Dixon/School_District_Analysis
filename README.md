@@ -42,7 +42,7 @@ As seen in the tables below after changing the Thomas 9th grade scores to NaN, t
 
 ![reading scores old](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_old.PNG)
 
-**Reading Scores by Grade After to changing Thomaas High School 9th Grade Scores:**
+**Reading Scores by Grade After changing Thomaas High School 9th Grade Scores:**
 
 ![reading scores new](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_new.PNG)
 
@@ -51,7 +51,7 @@ As seen in the tables below after changing the Thomas 9th grade scores to NaN, t
 
 ![school spending old](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/scores_by_spending_old.PNG)
 
-**Scores by School Spending After to changing Thoams High School 9th Grade Scorse**
+**Scores by School Spending After changing Thoams High School 9th Grade Scorse**
 
 ![school spending new](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/scores_by_spending_new.PNG)
 
@@ -59,7 +59,7 @@ As seen in the tables below after changing the Thomas 9th grade scores to NaN, t
 
 ![school size new](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/scores_by_school_size_old.PNG)
 
-**Scores by School Size After to changing Thoams High School 9th Grade Scorse**
+**Scores by School Size After changing Thoams High School 9th Grade Scorse**
 
 ![school size new](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/scores_by_school_size_new.PNG)
 
@@ -67,7 +67,7 @@ As seen in the tables below after changing the Thomas 9th grade scores to NaN, t
 
 ![school type old](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/scores_by_schooltype_old.PNG)
 
-**Scores by School Type After to changing Thoams High School 9th Grade Scoores**
+**Scores by School Type After changing Thoams High School 9th Grade Scoores**
 
 ![school type new](https://github.com/Ian-T-Dixon/School_District_Analysis/blob/main/Resources/scores_by_school_type_new.PNG)
 
